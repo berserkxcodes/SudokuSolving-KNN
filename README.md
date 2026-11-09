@@ -96,6 +96,3 @@ A window shows the recognised digits, and the console prints the generated grid,
 
 Issues and pull requests are welcome.
 
-## License
-
-Add your preferred license here (for example MIT).
