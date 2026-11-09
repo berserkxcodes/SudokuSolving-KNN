@@ -92,6 +92,12 @@ A window shows the recognised digits, and the console prints the generated grid,
 - Only printed digits are supported, not handwriting.
 - The KNN uses the first 80 samples for training (`k = 80` in `knn.py` is the training-set size, not the number of neighbours; the classifier uses the single nearest neighbour).
 
+## Contributors : 
+- Vansh Ashwarya
+- Srijita Chatterjee
+- Shadman Ashraf
+- Subhajit Karmakar
+
 ## Contributing
 
 Issues and pull requests are welcome.
